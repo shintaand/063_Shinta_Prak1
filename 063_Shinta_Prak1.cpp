@@ -159,7 +159,7 @@ void tampilsemuaservis() {
 }
 
 void riwayatmontir() {
-    string montirlist[] = {"Adam", "Faris", "Azka", "Aldo"};
+    string montirlist[] = {"Suby", "Dimas, "Farhan", "Aldo"};
     cout << "\n=== RIWAYAT PEKERJAAN MONTIR ===\n";
     cout << "Pilih montir?\n";
     for(int i=0; i<4; i++) cout << i+1 << ". " << montirlist[i] << endl;
